@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.color-box{
+    border: 5px solid black;
+    border-radius: 15px;
+    width: 348px;
+    height:308px;
+    margin-top:20px;
+}
