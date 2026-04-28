@@ -1,12 +1,25 @@
 .container{
-    display: flex;
+   display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    border: 10px solid black;
+    padding: 20px;
 }.color-box{
-    border: 5px solid black;
     border-radius: 15px;
     width: 348px;
     height:308px;
     margin-top:20px;
+}#search-google{
+        margin-left: 279px;
+        border-radius: 15px;
+        background-color: orange;
+        font-size: medium;
+}#generate-color{
+        border-radius: 15px;
+        background-color: beige;
+        font-size: medium;
+}p{
+    font-weight: bold;
+    font-size: 37px;
 }
